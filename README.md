@@ -1,2 +1,0 @@
-# treloc
-Framåtäntligen
